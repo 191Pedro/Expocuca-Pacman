@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         @vite('resources/css/app.css')
     </head>
-    <body class="bg-zinc-900 text-white">
+    <body class="bg-primary-bg text-white font-figtree">
         <script src="app.js" type="text/javascript"></script>
         @include('components.header')
 
